@@ -1,1 +1,1 @@
-# LpyscfTHW
+# Learn PySCF The Hard Way
